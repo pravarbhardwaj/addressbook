@@ -2,3 +2,5 @@ fastapi==0.86.0
 sqlalchemy
 databases
 aiosqlite
+uvicorn
+geopy
